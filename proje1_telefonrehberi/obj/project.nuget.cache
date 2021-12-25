@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "St/gc7oA0ld1S/9iswXK7XpngULWYXqDjRHzd2x1XrHDrPUTrmO2Kw32xN96mdyNGiEZagTPK9C7yYEXDwSjqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\NET5odevleri\\proje1_telefonrehberi\\proje1_telefonrehberi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

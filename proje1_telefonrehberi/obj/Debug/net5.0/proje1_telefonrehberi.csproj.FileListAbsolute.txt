@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.exe
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.deps.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\ref\proje1_telefonrehberi.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\bin\Debug\net5.0\proje1_telefonrehberi.pdb
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\ref\proje1_telefonrehberi.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.pdb
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje1_telefonrehberi\obj\Debug\net5.0\proje1_telefonrehberi.genruntimeconfig.cache
